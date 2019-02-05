@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_input_"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/app_background"
+    tools:context="com.example.calnik.makingoftheproject_1.Input_Activity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="19dp"
+        android:id="@+id/hollyLayout"
+        android:layout_below="@+id/hollyButton"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:text="Enter the Movie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/mycolor1"
+            android:layout_marginTop="20dp"
+            android:textAlignment="center"
+            android:id="@+id/textView" />
+
+        <EditText
+            android:hint="here"
+            android:textColor="@color/mycolor1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"
+            android:id="@+id/holMovieEdit"
+            android:textSize="15dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Play"
+            android:layout_marginLeft="133dp"
+            android:layout_marginTop="15dp"
+            android:id="@+id/hollyPlayButton"
+            android:onClick="HollyPlay" />
+
+
+        <TextView
+            android:text="OR"
+            android:textColor="@color/mycolor1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:id="@+id/textView2" />
+
+        <TextView
+            android:text="Choose from the List below"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/mycolor1"
+            android:textAlignment="center"
+            android:id="@+id/textView3" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SELECT A MOVIE"
+            android:layout_marginLeft="105dp"
+            android:layout_marginTop="30dp"
+            android:id="@+id/selectHolButton"
+            android:onClick="HollySelectButton" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="19dp"
+        android:id="@+id/bollyLayout"
+        android:layout_below="@+id/bollyButton"
+        android:layout_alignParentEnd="true">
+
+        <TextView
+            android:text="Enter the Movie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/mycolor1"
+            android:textAlignment="center"
+            android:id="@+id/textView4" />
+
+        <EditText
+            android:hint="here"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"
+            android:id="@+id/bolMovieEdit"
+            android:textColor="@color/mycolor1"
+            android:textSize="15dp"/>
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Play"
+            android:layout_marginLeft="133dp"
+            android:layout_marginTop="15dp"
+            android:id="@+id/bollyPlayButton"
+            android:onClick="BollyPlay" />
+
+        <TextView
+            android:text="OR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textColor="@color/mycolor1"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:id="@+id/textView5" />
+
+        <TextView
+            android:text="Choose from the List below"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/mycolor1"
+            android:textAlignment="center"
+            android:id="@+id/textView6" />
+
+        <Button
+            android:id="@+id/selectBolButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="105dp"
+            android:layout_marginTop="30dp"
+            android:onClick="BollySelectButton"
+            android:text="SELECT A MOVIE" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/hollyButton"
+        android:layout_marginTop="38dp"
+        android:text="HOLLYWOOD"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/hollyLayout"
+        android:layout_marginEnd="30dp"
+        android:onClick="Hollywood" />
+
+    <Button
+        android:text="Bollywood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bollyButton"
+        android:layout_above="@+id/hollyLayout"
+        android:layout_alignStart="@+id/bollyLayout"
+        android:layout_marginStart="32dp"
+        android:onClick="Bollywood" />
+</RelativeLayout>

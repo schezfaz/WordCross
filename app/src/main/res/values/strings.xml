@@ -1,0 +1,258 @@
+<resources>
+    <string name="app_name">WORDCROSS</string>
+
+    <string-array name="Hollywood">
+        <item>rouge one a star wars story</item>
+        <item>red state</item>
+        <item>underworld blood wars</item>
+        <item>suicide squad</item>
+        <item>act of valor</item>
+        <item>lone survivor</item>
+        <item>logan</item>
+        <item>john wick chapter two</item>
+        <item>john wick</item>
+        <item>the accountant</item>
+        <item>kong skull island</item>
+        <item>king kong</item>
+        <item>the great wall</item>
+        <item>deadpool</item>
+        <item>the magnificent seven</item>
+        <item>resident evil the final chapter</item>
+        <item>priest</item>
+        <item>daybreakers</item>
+        <item>xmen apocalypse</item>
+        <item>star trek beyond</item>
+        <item>guardians of the galaxy</item>
+        <item>now you see me</item>
+        <item>blood father</item>
+        <item>max steel</item>
+        <item>warcraft</item>
+        <item>jack reacher never go back</item>
+        <item>jack reacher</item>
+        <item>independence day</item>
+        <item>pandorum</item>
+        <item>the legend of tarzan</item>
+        <item>fury</item>
+        <item>jurassic world</item>
+        <item>jurassic park</item>
+        <item>jason bourne</item>
+        <item>spy</item>
+        <item>maze runner</item>
+        <item>life on the line</item>
+        <item>sicario</item>
+        <item>insurgent</item>
+        <item>teenage mutant ninja turtles</item>
+        <item>ghostbusters</item>
+        <item>the purge</item>
+        <item>hammer of the gods</item>
+        <item>prometheous</item>
+        <item>spectr</item>
+        <item>the last witch hunter</item>
+        <item>criminal</item>
+        <item>batman v superman</item>
+        <item>jumanji</item>
+        <item>oblivion</item>
+        <item>jupiter ascending</item>
+        <item>san andreas</item>
+        <item>looper</item>
+        <item>star wars the force awakens</item>
+        <item>warlords</item>
+        <item>war on everyone</item>
+        <item>dracula untold</item>
+        <item>king arthur</item>
+        <item>the fate of the furious</item>
+        <item>fast and the furious</item>
+        <item>the equalizer</item>
+        <item>red cliff</item>
+        <item>falcon rising</item>
+        <item>inglourious bastards</item>
+        <item>the wolverine</item>
+        <item>captain america civil war</item>
+        <item>lockout</item>
+        <item>chappie</item>
+        <item>into the storm</item>
+        <item>london has fallen</item>
+        <item>john carter</item>
+        <item>heist</item>
+        <item>takers</item>
+        <item>collide</item>
+        <item>the lone ranger</item>
+        <item>the hobbit</item>
+        <item>thor the dark worls</item>
+        <item>the hunger games</item>
+        <item>avengers age of ultron</item>
+        <item>edge of tomorrow</item>
+        <item>terminator genisys</item>
+        <item>pixels</item>
+        <item>the anomaly</item>
+        <item>inception</item>
+        <item>power rangers</item>
+        <item>total recall</item>
+        <item>abraham lincoln</item>
+        <item>a walk among the tombstones</item>
+        <item>fantastic four</item>
+        <item>seventh son</item>
+        <item>the book of eli</item>
+        <item>gambit</item>
+        <item>world war z</item>
+        <item>lucy</item>
+        <item>kingsman the secret service</item>
+        <item>ride along</item>
+        <item>abduction</item>
+        <item>xmen days of future past</item>
+        <item>the expendables</item>
+        <item>ghost in the shell</item>
+        <item>and man</item>
+        <item>this means war</item>
+        <item>the colony</item>
+        <item>redemption</item>
+        <item>need for speed</item>
+        <item>hitman</item>
+        <item>american ultra</item>
+        <item>zombieland</item>
+        <item>star trek into the darkness</item>
+        <item>sherlock holmes</item>
+        <item>pacific rim</item>
+        <item>mad max fury road</item>
+        <item>the grandmaster</item>
+        <item>the legend of hercules</item>
+        <item>godzilla</item>
+        <item>cowboys and aliens</item>
+        <item>unstoppable</item>
+        <item>man of steel</item>
+        <item>divergent</item>
+        <item>taken</item>
+        <item>iron man</item>
+        <item>captain phillips</item>
+        <item>escape plan</item>
+        <item>transformers age of extinction</item>
+        <item>robocop</item>
+        <item>men in black</item>
+        <item>the dark knight</item>
+        <item>the dark knight rises</item>
+        <item>mission impossible</item>
+        <item>batman begins</item>
+        <item>legion</item>
+        <item>chinese zodiac</item>
+        <item>v for vendetta</item>
+    </string-array>
+
+    <string-array name="Bollywood">
+        <item>gangs of wasseypur</item>
+        <item>rang de basanti</item>
+        <item>a wednesday</item>
+        <item>anand</item>
+        <item>udaan</item>
+        <item>lagaan once upon a time in india</item>
+        <item>swades</item>
+        <item>taare zameen par</item>
+        <item>zindagi na milegi dobara</item>
+        <item>mughal e azam</item>
+        <item>pyaasa</item>
+        <item>black friday</item>
+        <item>bhaag milkha bhaag</item>
+        <item>haider</item>
+        <item>shahid</item>
+        <item>paan singh tomar</item>
+        <item>dil chahta hai</item>
+        <item>queen</item>
+        <item>drishyam</item>
+        <item>barfi</item>
+        <item>guru</item>
+        <item>the chess player</item>
+        <item>baby</item>
+        <item>sparsh</item>
+        <item>chak de india</item>
+        <item>sarfarosh</item>
+        <item>my name is khan</item>
+        <item>pk</item>
+        <item>the legend of bhagat singh</item>
+        <item>ek doctor ki maut</item>
+        <item>kahaani</item>
+        <item>salaam bombay</item>
+        <item>black</item>
+        <item>ek ruka hua faisia</item>
+        <item>omkara</item>
+        <item>manorama six feet under</item>
+        <item>bajrangi bhaijaan</item>
+        <item>gol maal</item>
+        <item>munna bhai mbbs</item>
+        <item>guide</item>
+        <item>dev d</item>
+        <item>mother india</item>
+        <item>khudha kay liye</item>
+        <item>kaagaz ke phool</item>
+        <item>hera pheri</item>
+        <item>company</item>
+        <item>chupke chupke</item>
+        <item>roja</item>
+        <item>jaane phi do yaaro</item>
+        <item>johnny gaddaar</item>
+        <item>do bigha zamin</item>
+        <item>jab we met</item>
+        <item>awaara</item>
+        <item>airlift</item>
+        <item>joh jeeta  woei sikandar</item>
+        <item>mumbai meri jaan</item>
+        <item>kal ho na ho</item>
+        <item>lage raho munna bhai</item>
+        <item>rock on</item>
+        <item>dilwale dulhania le jayenge</item>
+        <item>parinda</item>
+        <item>bajirao mastani</item>
+        <item>do ankhen barah haath</item>
+        <item>dil se</item>
+        <item>don</item>
+        <item>hey ram</item>
+        <item>vicky donor</item>
+        <item>gangaajal</item>
+        <item>mera naam joker</item>
+        <item>masoom</item>
+        <item>lootera</item>
+        <item>neerja</item>
+        <item>andaz apna apna</item>
+        <item>lakshya</item>
+        <item>maqbool</item>
+        <item>devdas</item>
+        <item>madras cafe</item>
+        <item>deewaar</item>
+        <item>veer zaara</item>
+        <item>hum dil de chuke sanam</item>
+        <item>satya</item>
+        <item>masaan</item>
+        <item>udta panjab</item>
+        <item>love aaj kal</item>
+        <item>sholay</item>
+        <item>kuch kuch hota hai</item>
+        <item>yeh jawaani hai deewani</item>
+        <item>dabangg</item>
+        <item>phillauri</item>
+        <item>begum jaan</item>
+        <item>cammando</item>
+        <item>the ghazi attack</item>
+        <item>rangoon</item>
+        <item>irada</item>
+        <item>kung fu yoga</item>
+        <item>raees</item>
+        <item>kaabil</item>
+        <item>pink</item>
+        <item>cofee with d</item>
+        <item>dangal</item>
+        <item>befikre</item>
+        <item>sultan</item>
+        <item>dear zindagi</item>
+        <item>ae dil hai mushkil</item>
+        <item>ghayal once again</item>
+        <item>mohenjo daro</item>
+        <item>shivaay</item>
+        <item>ki and ka</item>
+        <item>rustom</item>
+        <item>dishoom</item>
+        <item>force</item>
+        <item>madaari</item>
+        <item>wazir</item>
+        <item>mirzya</item>
+    </string-array>
+
+    <color name="mycolor1">#038DEF</color>
+</resources>
